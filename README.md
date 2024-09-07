@@ -458,7 +458,7 @@ The actual thickness between the bottom and the board in my keyboard about 6mm. 
 
 ![bbb](images/bbb.jpg)
 
-Left part of the keyboard will brain battery much faster than right part, because right part connects only to the left part, but left part connects to the right one and to the PC.
+Left part of the keyboard will drain battery much faster than right part, because right part connects only to the left part, but left part connects to the right one and to the PC.
 
 You can count everything from this link - https://zmk.dev/power-profiler/
 
